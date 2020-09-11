@@ -1,0 +1,18 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[3] Config.pm:315> INFO - Logfile is '4.1.2_Finished_Document_(Bibliography_BibLaTeX).blg'
+[257] biber-MSWIN32:330> INFO - === 
+[348] Biber.pm:415> INFO - Reading '4.1.2_Finished_Document_(Bibliography_BibLaTeX).bcf'
+[571] Biber.pm:952> INFO - Found 4 citekeys in bib section 0
+[636] Biber.pm:4334> INFO - Processing section 0
+[660] Biber.pm:4523> INFO - Looking for bibtex format file 'bib1.bib' for section 0
+[709] bibtex.pm:1682> INFO - LaTeX decoding ...
+[742] bibtex.pm:1494> INFO - Found BibTeX data source 'bib1.bib'
+[807] Biber.pm:4523> INFO - Looking for bibtex format file 'bib2.bib' for section 0
+[918] bibtex.pm:1682> INFO - LaTeX decoding ...
+[1036] bibtex.pm:1494> INFO - Found BibTeX data source 'bib2.bib'
+[1100] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1101] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1101] Biber.pm:4162> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'ru-RU'
+[1102] Biber.pm:4168> INFO - No sort tailoring available for locale 'ru-RU'
+[1123] bbl.pm:651> INFO - Writing '4.1.2_Finished_Document_(Bibliography_BibLaTeX).bbl' with encoding 'UTF-8'
+[1134] bbl.pm:754> INFO - Output to 4.1.2_Finished_Document_(Bibliography_BibLaTeX).bbl

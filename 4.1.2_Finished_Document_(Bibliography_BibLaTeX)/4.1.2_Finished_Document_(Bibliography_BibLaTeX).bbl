@@ -1,0 +1,207 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{Fama1965}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0a199d540b9489fd741d59fe677cdaf7}{%
+           family={Fama},
+           familyi={F\bibinitperiod},
+           given={EF},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0a199d540b9489fd741d59fe677cdaf7}
+      \strng{fullhash}{0a199d540b9489fd741d59fe677cdaf7}
+      \strng{bibnamehash}{0a199d540b9489fd741d59fe677cdaf7}
+      \strng{authorbibnamehash}{0a199d540b9489fd741d59fe677cdaf7}
+      \strng{authornamehash}{0a199d540b9489fd741d59fe677cdaf7}
+      \strng{authorfullhash}{0a199d540b9489fd741d59fe677cdaf7}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of business}
+      \field{number}{1}
+      \field{title}{{The Behavior of Stock-Market Prices}}
+      \field{volume}{38}
+      \field{year}{1965}
+      \field{pages}{34\bibrangedash 105}
+      \range{pages}{72}
+      \verb{file}
+      \verb :Users/user/Desktop/LaTeX/4.1 Библиография/new/the\_behavior\_of\_stock\_market\_prices.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/2350752
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/2350752
+      \endverb
+    \endentry
+    \entry{Sun2005}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8e935d2e8b401b4d9e64ed1f9a77574d}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Q},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f41d47c79e608ea64faf13eef7f84eee}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={a},
+           giveni={a\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef065b28c31984323fd6d3483d29aafd}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{10b7cce22ced83721f1326962fdee931}
+      \strng{fullhash}{6c085fc40828a13012fcc9a51292a166}
+      \strng{bibnamehash}{6c085fc40828a13012fcc9a51292a166}
+      \strng{authorbibnamehash}{6c085fc40828a13012fcc9a51292a166}
+      \strng{authornamehash}{10b7cce22ced83721f1326962fdee931}
+      \strng{authorfullhash}{6c085fc40828a13012fcc9a51292a166}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1043951X}
+      \field{journaltitle}{China Economic Review}
+      \field{number}{1}
+      \field{title}{{A study of optimal state shares in mixed oligopoly: Implications for SOE reform and foreign competition}}
+      \field{volume}{16}
+      \field{year}{2005}
+      \field{pages}{1\bibrangedash 27}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1016/j.chieco.2004.06.009
+      \endverb
+      \verb{file}
+      \verb :Users/user/Library/Application Support/Mendeley Desktop/Downloaded/Sun, Zhang, Li - 2005 - A study of optimal state shares in mixed oligopoly Implications for SOE reform and foreign competition.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S1043951X04000410
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S1043951X04000410
+      \endverb
+      \keyw{- see front matter,1 604 822 8420,1 604 822 9574,1043-951x,a,all rights reserved,anming,ca,corresponding author,d 2004 elsevier inc,e-mail address,employment burden,fax,sauder,soe reform,state shares,tel,transition economy,ubc,wto entry,zhang}
+    \endentry
+    \entry{Abbink2012}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c514e083ac5d7268d28b13338bed0449}{%
+           family={Abbink},
+           familyi={A\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2744ae3c15cc4ebdc14d4ae662275357}{%
+           family={Dasgupta},
+           familyi={D\bibinitperiod},
+           given={Utteeyo},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de71f9cb9d2fccb7b057e5f97f554612}{%
+           family={Gangadharan},
+           familyi={G\bibinitperiod},
+           given={Lata},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=359182cc851c7df4e667c0cd46bd2c0e}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Tarun},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c7b379b04bceac0ce868eec7ce7a601f}
+      \strng{fullhash}{72c5f89f5c68212cbb88273be83558d8}
+      \strng{bibnamehash}{c7b379b04bceac0ce868eec7ce7a601f}
+      \strng{authorbibnamehash}{c7b379b04bceac0ce868eec7ce7a601f}
+      \strng{authornamehash}{c7b379b04bceac0ce868eec7ce7a601f}
+      \strng{authorfullhash}{72c5f89f5c68212cbb88273be83558d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1556-5068}
+      \field{journaltitle}{SSRN Electronic Journal}
+      \field{title}{{Letting the Briber Go Free: An Experiment on Mitigating Harassment Bribes}}
+      \field{year}{2012}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.2139/ssrn.2166221
+      \endverb
+      \verb{file}
+      \verb :Users/user/Library/Application Support/Mendeley Desktop/Downloaded/Abbink et al. - 2012 - Letting the Briber Go Free An Experiment on Mitigating Harassment Bribes.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ssrn.com/abstract=2166221
+      \endverb
+      \verb{url}
+      \verb http://www.ssrn.com/abstract=2166221
+      \endverb
+      \keyw{asymmetric penalty,c91,experiment,harassment bribes,jel classification,k42,retaliation}
+    \endentry
+    \entry{Spengler2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b40c0eed7405b96b60416603c08b7f4}{%
+           family={Spengler},
+           familyi={S\bibinitperiod},
+           given={Dominic},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b40c0eed7405b96b60416603c08b7f4}
+      \strng{fullhash}{5b40c0eed7405b96b60416603c08b7f4}
+      \strng{bibnamehash}{5b40c0eed7405b96b60416603c08b7f4}
+      \strng{authorbibnamehash}{5b40c0eed7405b96b60416603c08b7f4}
+      \strng{authornamehash}{5b40c0eed7405b96b60416603c08b7f4}
+      \strng{authorfullhash}{5b40c0eed7405b96b60416603c08b7f4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{1968}
+      \field{title}{{Endogenous Detection of Collaborative Crime : the Case of Corruption}}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \verb{file}
+      \verb :Users/user/Library/Application Support/Mendeley Desktop/Downloaded/Spengler - 2012 - Endogenous Detection of Collaborative Crime the Case of Corruption.pdf:pdf
+      \endverb
+      \keyw{asymmetric penalties,corruption,endogenising,inspection game}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
