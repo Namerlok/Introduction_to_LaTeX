@@ -1,0 +1,18 @@
+\documentclass[a4paper,14pt]{article}
+
+\input{preamble}
+
+\begin{document}
+
+\begin{multline}\tag{$\Upsilon$}
+b_2^{\text{МНК}} = 
+\frac{\sum\limits_{i = 1}^{n} (p_i - \overline{p})(\omega_i - \overline{\omega})} {\sum\limits_{i = 1}^{n} (\omega_i - \overline{\omega})^2} = 
+\frac{\sum\limits_{i = 1}^{n} ([\beta_1 + \beta_2\omega_i + u_{pi}] - [ \beta_1 + \beta_2 \overline{\omega} + \overline{u}_p]) (\omega_i - \overline{\omega})}
+{\sum\limits_{i = 1}^{n} (\omega_i - \overline{\omega})^2} = \\
+\shoveleft{ = \frac{\sum\limits_{i = 1}^{n} (\beta_2 (\omega_i - \overline{\omega}) (\omega_i - \overline{\omega}) + (u_{pi} - \overline{u}_p) (\omega_i - \overline{\omega})) }
+{\sum\limits_{i = 1}^{n} (\omega_i - \overline{\omega})^2} =
+\beta_2 + \frac{\sum\limits_{i = 1}^{n} (u_{pi} - \overline{u}_p) (\omega_i - \overline{\omega})} 
+{\sum\limits_{i = 1}^{n} (\omega_i - \overline{\omega})^2}. } \\
+\end{multline}
+
+\end{document}
