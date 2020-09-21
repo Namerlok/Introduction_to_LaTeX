@@ -1,0 +1,22 @@
+\documentclass[a4paper,14pt]{article}
+
+\input{preamble}
+
+\begin{document}
+	\begin{figure}
+		\begin{center}
+			\captionsetup{labelformat = empty}
+			\caption{Динамика цен на нефть, USD/баррель}
+			\begin{tikzpicture}
+				\begin{axis}[date coordinates in = x, clip = false, 
+					xmin = 2015-10-01, xmax = 2015-12-31, xtick = {2015-10-01, 2015-10-15, 2015-11-01, 2015-11-15, 2015-12-01, 2015-12-15, 2015-12-31}, xticklabel={\day.\month.\year}, xticklabel style = {rotate = 90},
+					ymin = 30, ymax = 55, ytick ={35, 40, 45, 50}, 
+					width = 0.6\linewidth, height = 0.45\linewidth, scale = 1]
+				\legend{Нефть Brent, Нефть WTI}; 
+				\addplot [blue, very thick] table[x index = 0, y index = 2, col sep = comma] {oilprices.csv}; 
+				\addplot [red, very thick] table[x index = 0, y index = 1, col sep = comma] {oilprices.csv}; 
+				\end{axis}
+			\end{tikzpicture}
+		\end{center}
+	\end{figure}
+\end{document}
