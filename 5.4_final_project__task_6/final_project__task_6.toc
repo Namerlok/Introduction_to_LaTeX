@@ -1,0 +1,5 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Меню}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Горячие блюда}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Салаты}{7}{0}{1}
+\beamer@sectionintoc {2}{Всякие мелочи}{11}{0}{2}
